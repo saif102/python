@@ -1,6 +1,6 @@
-print("Enter your points:")
+#print("Enter your points:")
 
-x = float(input())
+x = float(input("Enter your points:"))
 
 if x>= 95:
     letterGrade = "1,0 (sehr gut / excellent)"
